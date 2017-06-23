@@ -1,0 +1,3 @@
+package flooding;
+
+@license(LGPL);
